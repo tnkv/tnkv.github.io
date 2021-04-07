@@ -1,0 +1,77 @@
+ @font-face {
+            font-family: font;
+            src: url(http://tnkv.rf.gd/fonts/font.ttf);
+        }
+        a {;
+            transition: .30s;
+            text-decoration:none;
+			  font-size: 40pt;
+        }
+        
+        a:hover {
+            -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+        }
+        body {
+            height: 100%;
+            margin: 0;
+            overflow: auto;
+        }
+
+        .background {
+            width: 100%;
+            min-height: 100%;
+            object-fit: cover;
+            margin: 0 auto;
+            display: block;
+            filter: brightness(75%)
+        }
+
+        .background-div {
+            max-height: 100%; 
+            display: flex;
+            position: fixed;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            overflow: hidden;
+        }
+    
+        p {
+            font-family: font;
+			
+        }
+
+        a {
+            font-family: font;
+        }
+		
+		  b {
+            font-family: font;
+			 font-size: 30pt;
+        }
+
+        .centered {
+            position: relative;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+			opacity: 0.4;
+
+        }
+
+        .centered-children {
+            padding: 20px;
+            border-radius: 25px;
+        
+ max-height: 100%;
+            display: block;
+            background: black;
+			color: white
+		
+        }
+
+		
