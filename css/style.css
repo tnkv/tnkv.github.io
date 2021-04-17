@@ -24,7 +24,7 @@
             object-fit: cover;
             margin: 0 auto;
             display: block;
-            filter: brightness(75%)
+            filter: brightness(100%)
         }
 
         .background-div {
