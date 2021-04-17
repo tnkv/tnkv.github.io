@@ -1,6 +1,6 @@
  @font-face {
             font-family: font;
-            src: url(https://tnkv.github.io/fonts/font.ttf);
+            src: url(https://tnkv.github.io/fonts/font.ttf) ;
         }
         a {;
             transition: .30s;
@@ -27,7 +27,7 @@
             filter: brightness(100%)
         }
 
-        .background-div {
+        .backgroundImage {
             max-height: 100%; 
             display: flex;
             position: fixed;
