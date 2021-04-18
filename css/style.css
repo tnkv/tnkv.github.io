@@ -1,6 +1,8 @@
  @font-face {
             font-family: font;
             src: url(https://tnkv.github.io/fonts/font.ttf) ;
+            font-family: regular;
+            src: url(https://tnkv.github.io/fonts/regular.ttf) ;
         }
         a {;
             transition: .30s;
@@ -47,9 +49,9 @@
             font-family: font;
         }
 		
-		  b {
-            font-family: font;
-			 font-size: 30pt;
+	b {
+            font-family: regular;
+			 font-size: 20pt;
         }
 
         .centered {
