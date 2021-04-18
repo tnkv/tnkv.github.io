@@ -1,5 +1,0 @@
-ErrorDocument 400 https://tnkv.github.io
-ErrorDocument 401 https://tnkv.github.io
-ErrorDocument 403 https://tnkv.github.io
-ErrorDocument 404 https://tnkv.github.io
-ErrorDocument 503 https://tnkv.github.io
