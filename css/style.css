@@ -57,7 +57,7 @@
         .centered {
             position: relative;
             min-height: 100vh;
-            display: flex;
+            display: centered;
             align-items: center;
             justify-content: center;
             text-align: center;
