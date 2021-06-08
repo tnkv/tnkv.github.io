@@ -61,7 +61,15 @@
             text-align: center;
 	    overflow: hiden;
 			opacity: 0.3;
-
+        .telegram {
+            position: relative;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+	    overflow: hiden;
+			opacity: 0;
         }
 
         .centered-children {
